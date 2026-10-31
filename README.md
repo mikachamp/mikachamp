@@ -2,6 +2,8 @@
 
 I make things in two worlds: metal and plastic on the shop floor, JavaScript on the screen. CNC routing, 3D printing and CAD on one side. AI agents, web and 3D on the other. Most of what I enjoy sits where the two meet, like a web page that explodes a part the way a machinist would, or an agent that knows a feed rate from a frame rate.
 
+**Portfolio:** [mikachamp.github.io/portfolio](https://mikachamp.github.io/portfolio/). The whole picture on one page: systems I've built, where I've worked, and what I work with.
+
 ## What I'm building right now
 
 - **Mika OS.** A personal AI operations system: one orchestrator, role agents that wake up per task, and an Obsidian vault that is both the task board and the memory. Agents stop at "review". I am the only one who can say "done".
@@ -14,6 +16,7 @@ I make things in two worlds: metal and plastic on the shop floor, JavaScript on 
 
 | Repo | In one line |
 |---|---|
+| [portfolio](https://github.com/mikachamp/portfolio) | My systems portfolio, live at [mikachamp.github.io/portfolio](https://mikachamp.github.io/portfolio/). |
 | [mika-os](https://github.com/mikachamp/mika-os) | Orchestrator + role sub-agents + Electron app. Task queue with lock files and leases, a review pipeline, human approval gates. |
 | [mika-os-knowledge-base](https://github.com/mikachamp/mika-os-knowledge-base) | The Obsidian vault as a second brain and agent control plane, as a reusable template. |
 | [web-lab](https://github.com/mikachamp/web-lab) | My web and 3D demos, with the techniques, tests and mistakes written down. |
